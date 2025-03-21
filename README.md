@@ -6,3 +6,6 @@
 - **Entre `$100 y $300`** incluye ambos extremos, no los dejes por fuera como si no importaran.
 - Para separar en rangos, **los operadores `>=` y `<=` son tu espada y escudo.**
 - Si te dan una lista de 10 sueldos y te piden saber cuántos están en cierto rango, **no necesitas un array — un contador bien ubicado es suficiente.**
+ 
+documentacion
+
